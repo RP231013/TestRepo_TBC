@@ -1,1 +1,1 @@
-# The Broadcasters Streaming 
+# All the common assets and CSS styles we need for The Broadcasters project
